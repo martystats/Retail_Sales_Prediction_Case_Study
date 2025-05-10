@@ -1,6 +1,7 @@
 # Retail Sales Prediction Case Study
 
-This project presents a machine learning pipeline for predicting retail sales using cleaned warehouse data. The pipeline includes:
+This project presents a complete machine learning pipeline for predicting retail sales using cleaned warehouse data. The pipeline includes sampling, feature engineering, model training, hyperparameter tuning, and deployment using a Streamlit app.
+
 
 - Data sampling (40% and 30%)
 - Feature selection and cleaning
